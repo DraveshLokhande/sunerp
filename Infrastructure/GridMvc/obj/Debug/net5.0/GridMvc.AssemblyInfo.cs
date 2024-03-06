@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("ASP.NET MVC Grid component")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("5.2.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("5.2.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("5.2.0+447fe22eaedcf4bab0bbf7ebacf8cb4bc912b707")]
 [assembly: System.Reflection.AssemblyProductAttribute("GridMvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GridMvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("5.2.0.0")]

@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\ERP\\ERP.csproj": {}
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\ERP\\ERP.csproj": {}
   },
   "projects": {
-    "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj",
         "projectName": "Business.Entities",
-        "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Entities\\Business.Entities\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Entities\\Business.Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -33,14 +28,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj"
               },
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridCore\\GridCore.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridCore\\GridCore.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridCore\\GridCore.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridCore\\GridCore.csproj"
               },
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\Util\\Utils\\Utils.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\Util\\Utils\\Utils.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\Util\\Utils\\Utils.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\Util\\Utils\\Utils.csproj"
               }
             }
           }
@@ -49,6 +44,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -80,26 +80,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Implementation\\Business.Interface\\Business.Interface.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Implementation\\Business.Interface\\Business.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Implementation\\Business.Interface\\Business.Interface.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Implementation\\Business.Interface\\Business.Interface.csproj",
         "projectName": "Business.Interface",
-        "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Implementation\\Business.Interface\\Business.Interface.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Implementation\\Business.Interface\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Implementation\\Business.Interface\\Business.Interface.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Implementation\\Business.Interface\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -113,11 +108,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj"
               },
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj"
               }
             }
           }
@@ -126,6 +121,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -153,26 +153,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Implementation\\Businessa.Service\\Business.Service\\Business.Service.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Implementation\\Businessa.Service\\Business.Service\\Business.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Implementation\\Businessa.Service\\Business.Service\\Business.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Implementation\\Businessa.Service\\Business.Service\\Business.Service.csproj",
         "projectName": "Business.Service",
-        "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Implementation\\Businessa.Service\\Business.Service\\Business.Service.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Implementation\\Businessa.Service\\Business.Service\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Implementation\\Businessa.Service\\Business.Service\\Business.Service.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Implementation\\Businessa.Service\\Business.Service\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -186,14 +181,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj"
               },
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Implementation\\Business.Interface\\Business.Interface.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Implementation\\Business.Interface\\Business.Interface.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Implementation\\Business.Interface\\Business.Interface.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Implementation\\Business.Interface\\Business.Interface.csproj"
               },
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj"
               }
             }
           }
@@ -202,6 +197,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -265,26 +265,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj",
         "projectName": "Business.SQL",
-        "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.SQL\\Business.SQL\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.SQL\\Business.SQL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -304,6 +299,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -335,26 +335,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\ERP\\ERP.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\ERP\\ERP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\ERP\\ERP.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\ERP\\ERP.csproj",
         "projectName": "ERP",
-        "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\ERP\\ERP.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\ERP\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\ERP\\ERP.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\ERP\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -368,26 +363,26 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj"
               },
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Implementation\\Businessa.Service\\Business.Service\\Business.Service.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Implementation\\Businessa.Service\\Business.Service\\Business.Service.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Implementation\\Businessa.Service\\Business.Service\\Business.Service.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Implementation\\Businessa.Service\\Business.Service\\Business.Service.csproj"
               },
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridBlazor\\GridBlazor.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridBlazor\\GridBlazor.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridBlazor\\GridBlazor.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridBlazor\\GridBlazor.csproj"
               },
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridMvc\\GridMvc.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridMvc\\GridMvc.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridMvc\\GridMvc.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridMvc\\GridMvc.csproj"
               },
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj"
               },
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\JsonStore\\Kinfo.JsonStore\\Kinfo.JsonStore.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\JsonStore\\Kinfo.JsonStore\\Kinfo.JsonStore.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\JsonStore\\Kinfo.JsonStore\\Kinfo.JsonStore.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\JsonStore\\Kinfo.JsonStore\\Kinfo.JsonStore.csproj"
               },
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\Util\\Utils\\Utils.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\Util\\Utils\\Utils.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\Util\\Utils\\Utils.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\Util\\Utils\\Utils.csproj"
               }
             }
           }
@@ -396,6 +391,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -500,7 +500,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -509,23 +509,18 @@
         }
       }
     },
-    "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridBlazor\\GridBlazor.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridBlazor\\GridBlazor.csproj": {
       "version": "3.2.0",
       "restore": {
-        "projectUniqueName": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridBlazor\\GridBlazor.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridBlazor\\GridBlazor.csproj",
         "projectName": "GridBlazor",
-        "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridBlazor\\GridBlazor.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridBlazor\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridBlazor\\GridBlazor.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridBlazor\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -540,16 +535,16 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj"
               }
             }
           },
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj"
               }
             }
           }
@@ -558,6 +553,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -609,7 +609,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         },
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
@@ -659,27 +659,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridCore\\GridCore.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridCore\\GridCore.csproj": {
       "version": "5.2.0",
       "restore": {
-        "projectUniqueName": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridCore\\GridCore.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridCore\\GridCore.csproj",
         "projectName": "GridCore",
-        "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridCore\\GridCore.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridCore\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridCore\\GridCore.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridCore\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -695,24 +690,24 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj"
               }
             }
           },
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj"
               }
             }
           },
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj"
               }
             }
           }
@@ -721,6 +716,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -756,7 +756,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         },
         "net6.0": {
           "targetAlias": "net6.0",
@@ -790,7 +790,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         },
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
@@ -824,27 +824,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridMvc\\GridMvc.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridMvc\\GridMvc.csproj": {
       "version": "5.2.0",
       "restore": {
-        "projectUniqueName": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridMvc\\GridMvc.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridMvc\\GridMvc.csproj",
         "projectName": "GridMvcCore",
-        "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridMvc\\GridMvc.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridMvc\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridMvc\\GridMvc.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridMvc\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -859,16 +854,16 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridCore\\GridCore.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridCore\\GridCore.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridCore\\GridCore.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridCore\\GridCore.csproj"
               }
             }
           },
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridCore\\GridCore.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridCore\\GridCore.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridCore\\GridCore.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridCore\\GridCore.csproj"
               }
             }
           }
@@ -877,6 +872,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -907,7 +907,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         },
         "net5.0": {
           "targetAlias": "net5.0",
@@ -936,27 +936,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj": {
       "version": "5.2.0",
       "restore": {
-        "projectUniqueName": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj",
         "projectName": "GridShared",
-        "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -986,6 +981,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -1021,7 +1021,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         },
         "net6.0": {
           "targetAlias": "net6.0",
@@ -1055,7 +1055,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         },
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
@@ -1089,26 +1089,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\JsonStore\\Kinfo.JsonStore\\Kinfo.JsonStore.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\JsonStore\\Kinfo.JsonStore\\Kinfo.JsonStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\JsonStore\\Kinfo.JsonStore\\Kinfo.JsonStore.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\JsonStore\\Kinfo.JsonStore\\Kinfo.JsonStore.csproj",
         "projectName": "Kinfo.JsonStore",
-        "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\JsonStore\\Kinfo.JsonStore\\Kinfo.JsonStore.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\JsonStore\\Kinfo.JsonStore\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\JsonStore\\Kinfo.JsonStore\\Kinfo.JsonStore.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\JsonStore\\Kinfo.JsonStore\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1122,11 +1117,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj"
               },
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj"
               }
             }
           }
@@ -1135,6 +1130,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -1170,26 +1170,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\Util\\Utils\\Utils.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\Util\\Utils\\Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\Util\\Utils\\Utils.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\Util\\Utils\\Utils.csproj",
         "projectName": "Utils",
-        "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\Util\\Utils\\Utils.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\Util\\Utils\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\Util\\Utils\\Utils.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\Util\\Utils\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1209,6 +1204,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -1230,7 +1230,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

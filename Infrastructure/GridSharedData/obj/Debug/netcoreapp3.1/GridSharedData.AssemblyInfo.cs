@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GridSharedData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("5.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("5.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("5.0.0+447fe22eaedcf4bab0bbf7ebacf8cb4bc912b707")]
 [assembly: System.Reflection.AssemblyProductAttribute("GridSharedData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GridSharedData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("5.0.0.0")]

@@ -13,42 +13,42 @@ namespace GridBlazor.Pages
     using global::System.Threading.Tasks;
     using global::Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "D:\AksharItSolution\M2LERP Detail\ERP Backup\aksharm2l\Infrastructure\GridBlazor\_Imports.razor"
+#line 1 "C:\Users\Lenovo\Documents\GitHub\sunerp\Infrastructure\GridBlazor\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "D:\AksharItSolution\M2LERP Detail\ERP Backup\aksharm2l\Infrastructure\GridBlazor\_Imports.razor"
+#line 2 "C:\Users\Lenovo\Documents\GitHub\sunerp\Infrastructure\GridBlazor\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "D:\AksharItSolution\M2LERP Detail\ERP Backup\aksharm2l\Infrastructure\GridBlazor\_Imports.razor"
+#line 3 "C:\Users\Lenovo\Documents\GitHub\sunerp\Infrastructure\GridBlazor\_Imports.razor"
 using System.Text.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "D:\AksharItSolution\M2LERP Detail\ERP Backup\aksharm2l\Infrastructure\GridBlazor\_Imports.razor"
+#line 4 "C:\Users\Lenovo\Documents\GitHub\sunerp\Infrastructure\GridBlazor\_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 1 "D:\AksharItSolution\M2LERP Detail\ERP Backup\aksharm2l\Infrastructure\GridBlazor\Pages\GridRowComponent.razor"
+#line 1 "C:\Users\Lenovo\Documents\GitHub\sunerp\Infrastructure\GridBlazor\Pages\GridRowComponent.razor"
 using GridBlazor.Resources;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "D:\AksharItSolution\M2LERP Detail\ERP Backup\aksharm2l\Infrastructure\GridBlazor\Pages\GridRowComponent.razor"
+#line 2 "C:\Users\Lenovo\Documents\GitHub\sunerp\Infrastructure\GridBlazor\Pages\GridRowComponent.razor"
 using GridShared.Columns;
 
 #line default
@@ -56,7 +56,7 @@ using GridShared.Columns;
 #nullable disable
     public partial class GridRowComponent<
 #nullable restore
-#line 4 "D:\AksharItSolution\M2LERP Detail\ERP Backup\aksharm2l\Infrastructure\GridBlazor\Pages\GridRowComponent.razor"
+#line 4 "C:\Users\Lenovo\Documents\GitHub\sunerp\Infrastructure\GridBlazor\Pages\GridRowComponent.razor"
 T
 
 #line default

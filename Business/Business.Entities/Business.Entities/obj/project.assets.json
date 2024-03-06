@@ -1278,26 +1278,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj",
       "projectName": "Business.Entities",
-      "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.Entities\\Business.Entities\\obj\\",
+      "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Entities\\Business.Entities\\Business.Entities.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.Entities\\Business.Entities\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1311,14 +1304,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj": {
-              "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj"
+            "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Business\\Business.SQL\\Business.SQL\\Business.SQL.csproj"
             },
-            "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridCore\\GridCore.csproj": {
-              "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridCore\\GridCore.csproj"
+            "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridCore\\GridCore.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridCore\\GridCore.csproj"
             },
-            "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\Util\\Utils\\Utils.csproj": {
-              "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\Util\\Utils\\Utils.csproj"
+            "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\Util\\Utils\\Utils.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\Util\\Utils\\Utils.csproj"
             }
           }
         }
@@ -1327,6 +1320,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1358,7 +1356,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   },

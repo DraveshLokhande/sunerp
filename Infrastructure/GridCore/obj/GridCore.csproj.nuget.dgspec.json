@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridCore\\GridCore.csproj": {}
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridCore\\GridCore.csproj": {}
   },
   "projects": {
-    "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridCore\\GridCore.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridCore\\GridCore.csproj": {
       "version": "5.2.0",
       "restore": {
-        "projectUniqueName": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridCore\\GridCore.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridCore\\GridCore.csproj",
         "projectName": "GridCore",
-        "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridCore\\GridCore.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridCore\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridCore\\GridCore.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridCore\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -36,24 +31,24 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj"
               }
             }
           },
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj"
               }
             }
           },
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj": {
-                "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj"
+              "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj"
               }
             }
           }
@@ -62,6 +57,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -97,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         },
         "net6.0": {
           "targetAlias": "net6.0",
@@ -131,7 +131,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         },
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
@@ -165,27 +165,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj": {
+    "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj": {
       "version": "5.2.0",
       "restore": {
-        "projectUniqueName": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj",
         "projectName": "GridShared",
-        "projectPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\GridShared.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "D:\\AksharItSolution\\M2LERP Detail\\ERP Backup\\aksharerp\\aksharm2l\\Infrastructure\\GridShared\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\GridShared.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\Documents\\GitHub\\sunerp\\Infrastructure\\GridShared\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -215,6 +210,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -250,7 +250,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         },
         "net6.0": {
           "targetAlias": "net6.0",
@@ -284,7 +284,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         },
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
@@ -318,7 +318,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,70 +13,70 @@ namespace GridBlazor.Pages
     using global::System.Threading.Tasks;
     using global::Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "D:\AksharItSolution\M2LERP Detail\ERP Backup\aksharm2l\Infrastructure\GridBlazor\_Imports.razor"
+#line 1 "C:\Users\Lenovo\Documents\GitHub\sunerp\Infrastructure\GridBlazor\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "D:\AksharItSolution\M2LERP Detail\ERP Backup\aksharm2l\Infrastructure\GridBlazor\_Imports.razor"
+#line 2 "C:\Users\Lenovo\Documents\GitHub\sunerp\Infrastructure\GridBlazor\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "D:\AksharItSolution\M2LERP Detail\ERP Backup\aksharm2l\Infrastructure\GridBlazor\_Imports.razor"
+#line 3 "C:\Users\Lenovo\Documents\GitHub\sunerp\Infrastructure\GridBlazor\_Imports.razor"
 using System.Text.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "D:\AksharItSolution\M2LERP Detail\ERP Backup\aksharm2l\Infrastructure\GridBlazor\_Imports.razor"
+#line 4 "C:\Users\Lenovo\Documents\GitHub\sunerp\Infrastructure\GridBlazor\_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 1 "D:\AksharItSolution\M2LERP Detail\ERP Backup\aksharm2l\Infrastructure\GridBlazor\Pages\GridCreateComponent.razor"
+#line 1 "C:\Users\Lenovo\Documents\GitHub\sunerp\Infrastructure\GridBlazor\Pages\GridCreateComponent.razor"
 using Agno.BlazorInputFile;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "D:\AksharItSolution\M2LERP Detail\ERP Backup\aksharm2l\Infrastructure\GridBlazor\Pages\GridCreateComponent.razor"
+#line 2 "C:\Users\Lenovo\Documents\GitHub\sunerp\Infrastructure\GridBlazor\Pages\GridCreateComponent.razor"
 using GridBlazor.Columns;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "D:\AksharItSolution\M2LERP Detail\ERP Backup\aksharm2l\Infrastructure\GridBlazor\Pages\GridCreateComponent.razor"
+#line 3 "C:\Users\Lenovo\Documents\GitHub\sunerp\Infrastructure\GridBlazor\Pages\GridCreateComponent.razor"
 using GridBlazor.Resources;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "D:\AksharItSolution\M2LERP Detail\ERP Backup\aksharm2l\Infrastructure\GridBlazor\Pages\GridCreateComponent.razor"
+#line 4 "C:\Users\Lenovo\Documents\GitHub\sunerp\Infrastructure\GridBlazor\Pages\GridCreateComponent.razor"
 using GridShared;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "D:\AksharItSolution\M2LERP Detail\ERP Backup\aksharm2l\Infrastructure\GridBlazor\Pages\GridCreateComponent.razor"
+#line 5 "C:\Users\Lenovo\Documents\GitHub\sunerp\Infrastructure\GridBlazor\Pages\GridCreateComponent.razor"
 using GridShared.Columns;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "D:\AksharItSolution\M2LERP Detail\ERP Backup\aksharm2l\Infrastructure\GridBlazor\Pages\GridCreateComponent.razor"
+#line 6 "C:\Users\Lenovo\Documents\GitHub\sunerp\Infrastructure\GridBlazor\Pages\GridCreateComponent.razor"
 using GridShared.Utility;
 
 #line default
@@ -84,7 +84,7 @@ using GridShared.Utility;
 #nullable disable
     public partial class GridCreateComponent<
 #nullable restore
-#line 8 "D:\AksharItSolution\M2LERP Detail\ERP Backup\aksharm2l\Infrastructure\GridBlazor\Pages\GridCreateComponent.razor"
+#line 8 "C:\Users\Lenovo\Documents\GitHub\sunerp\Infrastructure\GridBlazor\Pages\GridCreateComponent.razor"
 T
 
 #line default
